@@ -20,7 +20,7 @@ export const CardData:CardDataFormate[] = [
       title: 'Sedans',
       paragraph: 'Choose a sedan for its affordability and excellent fuel economy. Ideal for cruising in the city or on your next road trip.',
       btnText: 'Learn more',
-      StyleMode: 'bg-Bright-orange w-[330px] h-[445px]  lg:w-[311px] lg:h-[500px] '
+      StyleMode: 'bg-Bright-orange w-[330px] h-[445px]  lg:w-[311px] lg:h-[500px] bor-t-l-and-bor-t-r b-l  '
     },
     {
       id: 1,
@@ -36,7 +36,7 @@ export const CardData:CardDataFormate[] = [
       title: 'Luxury',
       paragraph: 'Cruise in the best car brands without the bloated prices. Enjoy the enhanced comfort of a luxury rental and arrive in style.',
      btnText: 'Learn more',
-      StyleMode: 'bg-dark-cyan w-[330px] h-[445px]  lg:w-[311px] lg:h-[500px]'
+      StyleMode: 'bg-dark-cyan w-[330px] h-[445px]  lg:w-[311px] lg:h-[500px] bor-b-l-and-bor-b-r b-r '
     }
 ]
 

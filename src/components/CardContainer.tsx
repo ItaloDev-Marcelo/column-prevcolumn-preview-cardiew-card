@@ -4,7 +4,7 @@ import Card from "./Card";
 export default function  CardContainer() {
 
   return (  
-    <main className="flex flex-col lg:flex-row justify-center bg-pink-400">
+    <main className="flex flex-col lg:flex-row justify-center font-Lexend bg-Very-light-gray-b-h-b ">
          {
          CardData.map(({id,title,btnText,icon,paragraph,
       StyleMode}:CardDataFormate) => (
